@@ -1,3 +1,4 @@
+Go Organic Agriculture
 ## React Starter Kit — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" web app boilerplate &nbsp; <a href="https://github.com/kriasoft/react-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/kriasoft/react-starter-kit.svg?style=social&label=Star&maxAge=3600" height="20"></a> <a href="https://twitter.com/ReactStarter"><img src="https://img.shields.io/twitter/follow/ReactStarter.svg?style=social&label=Follow&maxAge=3600" height="20"></a>
 
 [React Starter Kit](https://www.reactstarterkit.com) is an opinionated b oilerplate for web testing first
@@ -7,7 +8,7 @@ development built on top of [Node.js](https://nodejs.org/),
 tools such as [Webpack](http://webpack.github.io/), [Babel](http://babeljs.io/)
 and [Browsersync](http://www.browsersync.io/). Helping you to stay productive
 following the best practices. A solid starting point for both professionals
-and newcomers to the industry. 
+and newcomers to the industry.
 
 **See** [getting started guide](./docs/getting-started.md), [demo][demo],
 [docs](https://github.com/kriasoft/react-starter-kit/tree/master/docs),
